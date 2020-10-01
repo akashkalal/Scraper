@@ -1,4 +1,4 @@
-# Scraper
+# Scraper - This is Amezing
 
 Web Scraping is not an uncommon domain of programming. It forms the essential core of almost all web-based e-commerce sites,
 that rely on web scraping to gather information, perform alanysis, and produce effective results.
